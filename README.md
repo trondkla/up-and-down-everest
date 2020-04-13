@@ -1,1 +1,1 @@
-# up-and-down-everest
+# Up everest
